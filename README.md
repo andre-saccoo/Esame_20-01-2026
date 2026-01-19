@@ -29,7 +29,7 @@ Il repository Esame_20-01-2026 è organizzato con la struttura ad albero mostrat
 per svolgere l'esame:
 
 ```code
-SE_iTunes/
+Esame_20-01-2026/
 ├── database/
 │   ├── __init__.py
 |   ├── connector.cnf 
