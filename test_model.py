@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import networkx as nx
-from model.model import Model
+from model.Model import Model
 
 my_model = Model()
 
